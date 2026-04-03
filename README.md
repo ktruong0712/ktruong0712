@@ -1,8 +1,8 @@
-<h1 align="left">Welcome!</h1>
+<h1 align="left">Hi!</h1>
 
 ###
 
-<p align="left">My name is Tuyen and I'm a software engineer and incoming data science grad student, currently based in Arizona.</p>
+<p align="left">My name is Krystal and I'm a software engineer and incoming data science grad student, currently based in Arizona.</p>
 
 ###
 
