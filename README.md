@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Creating bugs since 2021<br>
-📚 Currently learning on the job and figuring things out as I go
+📚 Currently learning on the job and figuring things out as I go<br>
 🎯 Goals: build anything that comes to mind with a lasting impact 
 </p>
 
